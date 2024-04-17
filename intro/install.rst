@@ -153,7 +153,7 @@ help info for each parameter.  For example:
 
 .. code-block:: bash
 
-   $ ccmake ..
+   $ cmake ..
 
 and then enter your preferred build type and other options
 interactively.  This provides a nice view of the configuration as a
